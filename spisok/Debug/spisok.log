@@ -1,0 +1,20 @@
+﻿Построение начато 11.12.2015 12:48:00.
+     1>Проект "c:\Users\Kilroy\documents\visual studio 2012\Projects\spisok\spisok\spisok.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\spisok.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Tstack.cpp spisok.cpp
+         Tstack.cpp
+         Создание кода...
+         Компиляция...
+         spisok.cpp
+         Создание кода...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\kilroy\documents\visual studio 2012\Projects\spisok\Debug\spisok.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\kilroy\documents\visual studio 2012\Projects\spisok\Debug\spisok.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\kilroy\documents\visual studio 2012\Projects\spisok\Debug\spisok.lib" /MACHINE:X86 Debug\spisok.obj
+         Debug\stdafx.obj
+         Debug\Tspisok.obj
+         Debug\Tstack.obj
+         spisok.vcxproj -> c:\users\kilroy\documents\visual studio 2012\Projects\spisok\Debug\spisok.exe
+     1>Построение проекта "c:\Users\Kilroy\documents\visual studio 2012\Projects\spisok\spisok\spisok.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.58
